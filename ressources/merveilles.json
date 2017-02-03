@@ -1,0 +1,208 @@
+{
+    "merveilles": [{
+            "nom": "Messe",
+            "cout": [
+                "fiole", "papyrus", "bois", "brique", "brique"
+            ],
+            "recompense": [{
+                    "point": "2"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        },
+        {
+            "nom": "La Via Appia",
+            "cout": [
+                "papyrus", "brique", "brique", "pierre", "pierre"
+            ],
+            "recompense": [{
+                    "point": "3"
+                },
+                {
+                    "piece": "3"
+                },
+                {
+                    "defaussePiece": "-3"
+                },
+                {
+                    "rejoue": "true"
+                }
+            ]
+        },
+        {
+            "nom": "Le Sphinx",
+            "cout": [
+                "fiole", "fiole", "brique", "pierre"
+            ],
+            "recompense": [{
+                    "point": "6"
+                },
+                {
+                    "rejoue": "true"
+                }
+            ]
+        },
+        {
+            "nom": "Le Circus Maximus",
+            "cout": [
+                "fiole", "bois", "pierre", "pierre"
+            ],
+            "recompense": [{
+                    "point": "3"
+                },
+                {
+                    "defausseGris": "true"
+                },
+                {
+                    "armee": "1"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        },
+        {
+            "nom": "Le Pirée",
+            "cout": [
+                "brique", "pierre", "bois", "bois"
+            ],
+            "recompense": [{
+                    "point": "2"
+                },
+                {
+                    "capConstruction": "papyrus-fiole"
+                },
+                {
+                    "rejoue": "true"
+                }
+            ]
+        },
+        {
+            "nom": "La Grande Bibliothèque",
+            "cout": [
+                "papyrus", "fiole", "bois", "bois", "bois"
+            ],
+            "recompense": [{
+                    "point": "4"
+                },
+                {
+                    "pickJeton": "true"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        },
+        {
+            "nom": "Les Jardins Suspendus",
+            "cout": [
+                "papyrus", "fiole", "bois", "bois"
+            ],
+            "recompense": [{
+                    "point": "3"
+                },
+                {
+                    "piece": "6"
+                },
+                {
+                    "rejoue": "true"
+                }
+            ]
+        },
+        {
+            "nom": "La Statue de Zeus",
+            "cout": [
+                "papyrus", "papyrus", "brique", "bois", "pierre"
+            ],
+            "recompense": [{
+                    "point": "3"
+                },
+                {
+                    "defausseMarron": "true"
+                },
+                {
+                    "rejoue": "true"
+                }
+            ]
+        },
+        {
+            "nom": "Le Colosse",
+            "cout": [
+                "fiole", "brique", "brique", "brique"
+            ],
+            "recompense": [{
+                    "point": "3"
+                },
+                {
+                    "armee": "2"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        },
+        {
+            "nom": "Les Pyramides",
+            "cout": [
+                "papyrus", "pierre", "pierre", "pierre"
+            ],
+            "recompense": [{
+                    "point": "9"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        },
+        {
+            "nom": "Le Grand Phare",
+            "cout": [
+                "papyrus", "papyrus", "pierre", "bois"
+            ],
+            "recompense": [{
+                    "point": "4"
+                },
+                {
+                    "capConstruction": "bois-pierre-brique"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        },
+        {
+            "nom": "Le Temple d'Artémis",
+            "cout": [
+                "papyrus", "fiole", "pierre", "bois"
+            ],
+            "recompense": [{
+                    "point": "0"
+                },
+                {
+                    "piece": "12"
+                },
+                {
+                    "rejoue": "true"
+                }
+            ]
+        },
+        {
+            "nom": "Le Mausolée",
+            "cout": [
+                "papyrus", "fiole", "fiole", "brique", "brique"
+            ],
+            "recompense": [{
+                    "point": "2"
+                },
+                {
+                    "pickDefausse": "true"
+                },
+                {
+                    "rejoue": "false"
+                }
+            ]
+        }
+    ]
+}
