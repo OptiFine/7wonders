@@ -1,0 +1,247 @@
+{
+    "cartes": [{
+            "nom": "Dépôt d'argile",
+            "cout": [
+                "piece", "piece", "piece"
+            ],
+            "recompense": [{
+                    "prixArgile": "1"
+                }
+            ]
+        },
+        {
+            "nom": "Apothicaire",
+            "cout": [
+                "fiole"
+            ],
+            "recompense": [{
+                    "point": "1"
+                },
+                {
+                    "symbole": "roue"
+                }
+            ]
+        },
+        {
+            "nom": "Caserne",
+            "cout": [
+                "argile"
+            ],
+            "recompense": [
+                {
+                    "armee": "1"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "epee"
+                }]
+        },
+        {
+            "nom": "Tour de Garde",
+            "cout": [],
+            "recompense": [
+                {
+                    "armee": "1"
+                }
+            ]
+        },
+        {
+            "nom": "Autel",
+            "cout": [],
+            "recompense": [
+                {
+                    "point": "3"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "lune"
+                }]
+        },
+        {
+            "nom": "Exploitation",
+            "cout": ["piece"],
+            "recompense": [
+                {
+                    "capConstruction": "bois"
+                }
+            ]
+        },
+        {
+            "nom": "Bassin Argileux",
+            "cout": [],
+            "recompense": [
+                {
+                    "capConstruction": "argile"
+                }
+            ]
+        },
+        {
+            "nom": "Chantier",
+            "cout": [],
+            "recompense": [
+                {
+                    "capConstruction": "bois"
+                }
+            ]
+        },
+        {
+            "nom": "Verrerie",
+            "cout": ["piece"],
+            "recompense": [
+                {
+                    "capConstruction": "fiole"
+                }
+            ]
+        },
+        {
+            "nom": "Dépôt de Bois",
+            "cout": ["piece","piece","piece"],
+            "recompense": [
+                {
+                    "prixBois": "1"
+                }
+            ]
+        },
+        {
+            "nom": "Ecurie",
+            "cout": ["bois"],
+            "recompense": [
+                {
+                    "armee": "1"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "feracheval"
+                }]
+        },
+        {
+            "nom": "Palissade",
+            "cout": ["piece","piece"],
+            "recompense": [
+                {
+                    "armee": "1"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "tour"
+                }]
+        },
+        {
+            "nom": "Théâtre",
+            "cout": [],
+            "recompense": [
+                {
+                    "point": "3"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "masque"
+                }]
+        },
+        {
+            "nom": "Taverne",
+            "cout": [],
+            "recompense": [
+                {
+                    "piece": "4"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "jarre"
+                }]
+        },
+        {
+            "nom": "Dépôt de Pierre",
+            "cout": ["piece","piece","piece"],
+            "recompense": [
+                {
+                    "prixPierre": "1"
+                }
+            ]
+        },
+        {
+            "nom": "Bains",
+            "cout": ["pierre"],
+            "recompense": [
+                {
+                    "point": "3"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "goute"
+                }]
+        },
+        {
+            "nom": "Scriptorium",
+            "cout": ["piece","piece"],
+            "recompense": [
+                {
+                    "symbole": "plume"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "livre"
+                }]
+        },
+        {
+            "nom": "Atelier",
+            "cout": ["papyrus"],
+            "recompense": [
+                {
+                    "point": "1"
+                },{
+                    "symbole": "equere"
+                }
+            ]
+        },
+        {
+            "nom": "Officine",
+            "cout": ["piece","piece"],
+            "recompense": [
+                {
+                    "symbole": "pot"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "engrenage"
+                }]
+        },
+        {
+            "nom": "Gisement",
+            "cout": [],
+            "recompense": [
+                {
+                    "capConstruction": "pierre"
+                }
+            ]
+        },
+        {
+            "nom": "Presse",
+            "cout": ["piece"],
+            "recompense": [
+                {
+                    "capConstruction": "papyrus"
+                }
+            ]
+        },
+        {
+            "nom": "Cavité",
+            "cout": ["piece"],
+            "recompense": [
+                {
+                    "capConstruction": "argile"
+                }
+            ]
+        }
+        ,
+        {
+            "nom": "Mine",
+            "cout": ["piece"],
+            "recompense": [
+                {
+                    "capConstruction": "pierre"
+                }
+            ]
+        }
+    ]
+}
