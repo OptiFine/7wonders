@@ -1,0 +1,275 @@
+{
+    "cartes": [{
+            "nom": "Douane",
+            "cout": [
+                "piece", "piece", "piece", "piece"
+            ],
+            "recompense": [{
+                    "prixPapyrus": 1
+                },
+                {
+                    "prixFiole":1
+                }
+            ]
+        },
+        {
+            "nom": "Rostres",
+            "cout": [
+                "pierre", "bois"
+            ],
+            "recompense": [{
+                    "point": 4
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "temple"
+                }]
+        },
+        {
+            "nom": "Statue",
+            "cout": [
+                "argile","argile"
+            ],
+            "recompense": [
+                {
+                    "point": 4
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "pillier"
+                },
+              {
+                "necessite" : "masque"
+                }]
+        },
+        {
+            "nom": "Soufflerie",
+            "cout": [],
+            "recompense": [
+                {
+                    "capConstruction": "fiole"
+                }
+            ]
+        },
+        {
+            "nom": "Tribunal",
+            "cout": ["bois", "bois", "fiole"],
+            "recompense": [
+                {
+                    "point": 5
+                }
+            ]
+        },
+        {
+            "nom": "Temple",
+            "cout": ["bois", "papyrus"],
+            "recompense": [
+                {
+                    "point": 5
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "soleil"
+                },
+              {
+                "necessite" : "lune"
+                }]
+        },
+        {
+            "nom": "Carrière",
+            "cout": ["piece", "piece"],
+            "recompense": [
+                {
+                    "capConstruction": ["pierre", "pierre"]
+                }
+            ]
+        },
+        {
+            "nom": "Scierie",
+            "cout": ["piece", "piece"],
+            "recompense": [
+                {
+                    "capConstruction": ["bois", "bois"]
+                }
+            ]
+        },
+        {
+            "nom": "Laboratoire",
+            "cout": ["bois", "fiole", "fiole"],
+            "recompense": [
+                {
+                    "point": 1
+                },
+                {
+                  "symbole" : "equere"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "lampe"
+                }]
+        },
+        {
+            "nom": "Forum",
+            "cout": ["piece","piece","piece", "argile"],
+            "recompense": [
+                {
+                    "capConstruction": "fiole-papyrus"
+                }
+            ]
+        },
+        {
+            "nom": "Brasserie",
+            "cout": [],
+            "recompense": [
+                {
+                    "piece": 6
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "tonneau"
+                }]
+        },
+        {
+            "nom": "Haras",
+            "cout": ["argile","bopis"],
+            "recompense": [
+                {
+                    "armee": 1
+                }
+            ],
+            "chaine" : [{
+                "necessite" : "feracheval"
+                }]
+        },
+        {
+            "nom": "Baraquement",
+            "cout": ["piece","piece","piece"],
+            "recompense": [
+                {
+                    "armee": 1
+                }
+            ],
+            "chaine" : [{
+                "necessite" : "epee"
+                }]
+        },
+        {
+            "nom": "Aqueduc",
+            "cout": ["pierre","pierre","pierre"],
+            "recompense": [
+                {
+                    "point": 5
+                }
+            ],
+            "chaine" : [{
+                "necessite" : "goute"
+                }]
+        },
+        {
+            "nom": "Bibliothèque",
+            "cout": ["pierre","bois","fiole"],
+            "recompense": [
+                {
+                    "point": 2
+                },
+                {
+                  "symbole" : "plume"
+                }
+            ],
+            "chaine" : [{
+                "necessite" : "livre"
+                }]
+        },
+        {
+            "nom": "Ecole",
+            "cout": ["bois", "papyrus","papyrus"],
+            "recompense": [
+                {
+                    "point": 1
+                },
+                {
+                  "symbole" : "roue"
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "harpe"
+                }]
+        },
+        {
+            "nom": "Dispensaire",
+            "cout": ["argile","argile","pierre"],
+            "recompense": [
+              {
+                "point" : 2
+              },
+                {
+                    "symbole": "pot"
+                }
+            ],
+            "chaine" : [{
+                "necessite" : "engrenage"
+                }]
+        },
+        {
+            "nom": "Chamlp de tir",
+            "cout": ["pierre","bois","papyrus"],
+            "recompense": [
+                {
+                    "armee": 2
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "cible"
+            }]
+        },
+        {
+            "nom": "Place d'armes",
+            "cout": ["argile","argile","fiole"],
+            "recompense": [
+                {
+                    "armee": 2
+                }
+            ],
+            "chaine" : [{
+                "octroie" : "casque"
+                }]
+        },
+        {
+            "nom": "Caravansérail",
+            "cout": ["piece","piece","fiole","papyrus"],
+            "recompense": [
+                {
+                    "capConstruction": "bois-argile-pierre"
+                }
+            ]
+        },
+        {
+            "nom": "Sechoir",
+            "cout": [],
+            "recompense": [
+                {
+                    "capConstruction": "papyrus"
+                }
+            ]
+        },
+        {
+            "nom": "Muraille",
+            "cout": ["pierre", "pierre"],
+            "recompense": [
+                {
+                    "armee": 2
+                }
+            ]
+        }
+        ,
+        {
+            "nom": "Briquerie",
+            "cout": ["piece", "piece"],
+            "recompense": [
+                {
+                    "capConstruction": ["argile","argile"]
+                }
+            ]
+        }
+    ]
+}

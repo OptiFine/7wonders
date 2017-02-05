@@ -5,7 +5,7 @@
                 "fiole", "papyrus", "bois", "brique", "brique"
             ],
             "recompense": [{
-                    "point": "2"
+                    "point": 2
                 },
                 {
                     "rejoue": "false"
@@ -18,13 +18,13 @@
                 "papyrus", "brique", "brique", "pierre", "pierre"
             ],
             "recompense": [{
-                    "point": "3"
+                    "point": 3
                 },
                 {
-                    "piece": "3"
+                    "piece": 3
                 },
                 {
-                    "defaussePiece": "-3"
+                    "defaussePiece": -3
                 },
                 {
                     "rejoue": "true"
@@ -37,7 +37,7 @@
                 "fiole", "fiole", "brique", "pierre"
             ],
             "recompense": [{
-                    "point": "6"
+                    "point": 6
                 },
                 {
                     "rejoue": "true"
@@ -50,13 +50,13 @@
                 "fiole", "bois", "pierre", "pierre"
             ],
             "recompense": [{
-                    "point": "3"
+                    "point": 3
                 },
                 {
                     "defausseGris": "true"
                 },
                 {
-                    "armee": "1"
+                    "armee": 1
                 },
                 {
                     "rejoue": "false"
@@ -69,7 +69,7 @@
                 "brique", "pierre", "bois", "bois"
             ],
             "recompense": [{
-                    "point": "2"
+                    "point": 2
                 },
                 {
                     "capConstruction": "papyrus-fiole"
@@ -85,7 +85,7 @@
                 "papyrus", "fiole", "bois", "bois", "bois"
             ],
             "recompense": [{
-                    "point": "4"
+                    "point": 4
                 },
                 {
                     "pickJeton": "true"
@@ -101,10 +101,10 @@
                 "papyrus", "fiole", "bois", "bois"
             ],
             "recompense": [{
-                    "point": "3"
+                    "point": 3
                 },
                 {
-                    "piece": "6"
+                    "piece": 6
                 },
                 {
                     "rejoue": "true"
@@ -117,7 +117,7 @@
                 "papyrus", "papyrus", "brique", "bois", "pierre"
             ],
             "recompense": [{
-                    "point": "3"
+                    "point": 3
                 },
                 {
                     "defausseMarron": "true"
@@ -133,10 +133,10 @@
                 "fiole", "brique", "brique", "brique"
             ],
             "recompense": [{
-                    "point": "3"
+                    "point": 3
                 },
                 {
-                    "armee": "2"
+                    "armee": 2
                 },
                 {
                     "rejoue": "false"
@@ -149,7 +149,7 @@
                 "papyrus", "pierre", "pierre", "pierre"
             ],
             "recompense": [{
-                    "point": "9"
+                    "point": 9
                 },
                 {
                     "rejoue": "false"
@@ -162,7 +162,7 @@
                 "papyrus", "papyrus", "pierre", "bois"
             ],
             "recompense": [{
-                    "point": "4"
+                    "point": 4
                 },
                 {
                     "capConstruction": "bois-pierre-brique"
@@ -178,10 +178,10 @@
                 "papyrus", "fiole", "pierre", "bois"
             ],
             "recompense": [{
-                    "point": "0"
+                    "point": 0
                 },
                 {
-                    "piece": "12"
+                    "piece": 12
                 },
                 {
                     "rejoue": "true"
@@ -194,7 +194,7 @@
                 "papyrus", "fiole", "fiole", "brique", "brique"
             ],
             "recompense": [{
-                    "point": "2"
+                    "point": 0
                 },
                 {
                     "pickDefausse": "true"
